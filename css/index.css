@@ -1,0 +1,99 @@
+.myLogo {
+    max-width: 100%;
+    padding-left: 10px;
+    height: auto;
+}
+
+.myName {
+    color: white;
+    font-family: Arial;
+    font-size: 14px;
+    padding-left: 20px;
+    text-align: center;
+    width: 11%;
+}
+
+.navigation {
+    display: flex;
+    justify-content: left;
+    align-items: left;
+    height: 50px;
+    background-color: #373738;
+    padding: 10px;
+}
+
+nav {
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    width: 100%;
+}
+
+nav p {
+    padding: 10px 20px;
+    color: white;
+    font-family: Arial;
+    font-size: 14px;
+}
+
+.heroImg {
+    height: 600px;
+}
+
+.heroImg p {
+    color: black;
+    font-family: Arial;
+    font-size: 14px;
+    text-align: center;
+}
+
+h2 {
+    color: black;
+    font-family: Arial;
+    font-size: 24px;
+    text-align: center;
+}
+
+.content {
+    width: 500px;
+    margin: 0 auto;
+}
+
+.footer {
+    display: flex;
+    vertical-align: top;
+    padding: 10px;
+    justify-content: left;
+    align-items: center;
+    background-color: #373738;
+    padding: 10px;
+    height: 40px;
+}
+
+.footer p {
+    padding: 20px;
+    color: white;
+    font-family: Arial;
+    font-size: 14px;
+}
+
+.myPic {
+    max-width: 50%;
+    height: auto;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 40px;
+}
+
+button {
+    background-color: #8F1FFF;
+    border: none;
+    padding: 10px 20px;
+    font-size: 18px;
+    color: white;
+}
